@@ -28,7 +28,7 @@ set tabstop=4
 set shiftwidth=4
 set smarttab
 
-"colorscheme Tomorrow-Night-Eighties
-colorscheme dracula
+colorscheme Tomorrow-Night-Eighties
+"colorscheme dracula
 
-let g:neocomplcache_enable_at_startup = 1
+"let g:neocomplcache_enable_at_startup = 1
